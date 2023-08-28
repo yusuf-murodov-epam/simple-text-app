@@ -1,0 +1,6 @@
+[submodule "simple-text-crud-ui"]
+	path = simple-text-crud-ui
+	url = git@github.com:yusuf-murodov-epam/simple-text-crud-ui.git
+[submodule "simple-text-crud-backend"]
+	path = simple-text-crud-backend
+	url = git@github.com:yusuf-murodov-epam/simple-text-crud-backend.git
